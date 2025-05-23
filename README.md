@@ -32,9 +32,3 @@ The program:
 2. Processes shoulder, pelvis, knee, and ankle angles from back and right views
 3. Applies filters and transformations
 4. Outputs comparative results in a new `.csv` and plots for visualization
-
-Team Project @ Hongik University Digital Human Lab
-
----
-
-> 📎 *This project helped me strengthen my skills in filtering noisy real-world data, designing intuitive analysis pipelines, and building user-friendly research tools in MATLAB.*
