@@ -2,7 +2,7 @@
 
 A MATLAB-based program for analyzing human gait patterns using real-world joint angle data collected from multiple views. 
 
-## 📌 Overview
+## Overview
 
 This project addresses the complexity of real-world sensor data through computational modeling and signal processing.  
 We analyzed pedestrian gait using joint angle data (shoulder, pelvis, knee, ankle) from both **back** and **right** perspectives.  
@@ -12,20 +12,20 @@ The program allows users to compare two pedestrian cases through:
 - 🧩 Overlayed comparative graphs
 - 📈 Statistical summaries of motion cycles
 
-## 📌 Key Features
+## Key Features
 
 - Kalman and low-pass filters for denoising and signal enhancement  
 - Fast Fourier Transform (FFT) to reveal periodic motion patterns in the frequency domain  
 - Automatic generation of comparative graphs and CSV reports  
 - Statistical analysis: mean trajectories and standard deviation bands  
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Language**: MATLAB  
 - **Techniques**: Kalman filter, low-pass filter, FFT, statistical modeling  
 - **Data Format**: `.csv` with joint angle data  
 
-## 📌 How It Works
+## How It Works
 
 The program:
 1. Reads raw gait data from `reference_CES48.csv`
